@@ -1,0 +1,1 @@
+the temperature dataset contains some outliers which clearly are caused by instrumental error. There were many days with a value of -72 degrees celsius in weather dataset. all the outliers had the same -72 value. So this was clearly an instrumental or any other kind of error.
